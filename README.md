@@ -4,7 +4,7 @@
 
 ## Description
 
-ModularityPro is a multiplatorm, mobile ready social media network application dynamically connecting users through the use of:
+ModularityPro is a multiplatform, mobile ready social media network application dynamically connecting users through the use of:
 
 * [Video Calls](#videoCall)
 * [Chat Hub](#chatHub) - our built in messenger
